@@ -1,0 +1,12 @@
+.component-app {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 100%;
+  background-color: #858694;
+}
+
+.container {
+  width: 300px;
+  margin: auto;
+}
